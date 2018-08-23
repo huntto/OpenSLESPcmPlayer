@@ -1,0 +1,1 @@
+[Android中使用OpenSLES播放PCM音频](http://huntto.me/2018/08/23/Android%E4%B8%AD%E4%BD%BF%E7%94%A8OpenSLES%E6%92%AD%E6%94%BEPCM%E9%9F%B3%E9%A2%91/)
